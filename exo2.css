@@ -1,0 +1,8 @@
+h2{
+    text-align: center;
+    font-size: 2em;
+}
+
+div:not(:last-child){
+    border-bottom: 2px black solid;
+}
